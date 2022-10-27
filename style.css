@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+}
+body {
+    
+    background-size: 100%;
+    background-repeat: repeat;
+    background-position: 100px 0px;
+    background-attachment: fixed;
+
+}
+h1{
+    color:rgb(171, 173, 173);
+    text-align: center;
+    
+    
+}
+header p{
+    color: brown;
+    text-align: center;
+    font-style: italic;
+    text-decoration-line: underline;
+    text-decoration-style: double;
+    text-decoration-color: rgb(171, 173, 173);
+
+
+    
+}
+
+
+#maphoto{
+    border-radius: 50%;
+    
+}
+.details{
+    box-shadow : 10px 10px 10px 5px black;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+
+
+}
+#certificats{
+    text-decoration: none;
+    border-bottom: 1px dotted;
+}
+#parent {
+    display: flex;
+    
+}
+
+#aside_1{
+    width: 200px;
+    background-color: rgb(93, 121, 184);
+    color: #fff;
+    padding: 10px;
+    border-radius: 0px 20px 0px  ;
+    margin-bottom: 250px;
+
+}
+
+#aside_1 h4{
+    margin-top: 10px;
+    font-size: 14px;
+    color: brown;
+    
+}
+#aside_1 ol{
+    padding-left: 20px;
+}
+
+img{
+    width: 180px;
+    height: 180px;
+    border-radius: 100px;
+    margin-top: -5px;
+    
+}
+main{
+    justify-content: flex;
+    
+    
+}
+#sections{
+    display: inline-block;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+.section{
+    background-color: rgb(232, 238, 238);
+    width: 270px;
+    text-align: left;
+    flex-grow: initial;
+    margin: 3px;
+    float: left;
+    border-radius: 15px;
+    
+}
+.section h2{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 10px;
+
+}
+.section strong{
+    color: brown;
+}
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacyzd
